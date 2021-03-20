@@ -1,0 +1,6 @@
+﻿  Bai1.cpp
+D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Stack\Bai1.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+  MyStack.cpp
+  Node.cpp
+  Generating Code...
+  Stack.vcxproj -> D:\Cybersoft_Mentor\Uu_tien\workspace_CPlusPlus\DataStructureAndAlgorithms\Debug\Stack.exe
